@@ -3,3 +3,7 @@
 #everyman
 def yogurtMan():
     print('yeh boi')
+
+def main():
+    yogurtMan()
+    
