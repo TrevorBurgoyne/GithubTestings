@@ -1,2 +1,2 @@
 # GithubTestings
-This is a test to get used to github shenaigains
+This is a test to get used to github shenanigans
