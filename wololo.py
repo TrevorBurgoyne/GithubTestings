@@ -6,3 +6,6 @@ def funStuff (x):
 
 def iLoveSquid ():
   return False  
+
+def iHateSquid ():
+  return True
