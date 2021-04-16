@@ -10,6 +10,3 @@ def cheetos():
 
 def main():
     yogurtMan()
-
-
-
