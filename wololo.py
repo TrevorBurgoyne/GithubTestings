@@ -10,5 +10,6 @@ def iLoveSquid ():
 def iHateSquid ():
   return True
 
-def hello ():
-  print('hey')
+def main():
+  if(iHateSquid()):
+    print(funStuff(23))
