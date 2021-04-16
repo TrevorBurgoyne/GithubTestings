@@ -9,3 +9,7 @@ def iLoveSquid ():
 
 def iHateSquid ():
   return True
+
+def main():
+  if(iHateSquid()):
+    print(funStuff(23))
