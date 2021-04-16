@@ -9,3 +9,6 @@ def iLoveSquid ():
 
 def iHateSquid ():
   return True
+
+def hello ():
+  print('hey')
