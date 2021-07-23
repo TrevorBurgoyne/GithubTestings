@@ -15,5 +15,7 @@ before_install:
 
 install:
   - pip install codecov
+
 script:
   - coverage run wololo.py
+  - coverage run another.py

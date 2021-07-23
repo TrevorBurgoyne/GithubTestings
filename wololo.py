@@ -1,6 +1,9 @@
 def funStuff (x):
   return x*3
 
+def iLoveSquid ():
+  return False
+
 def iHateSquid ():
   return True
 
