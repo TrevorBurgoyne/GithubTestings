@@ -1,4 +1,10 @@
 language: python
 
+services:
+  - docker
+
+before_install:
+  - docker build .
+
 script:
   - python wololo.py
