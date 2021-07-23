@@ -3,6 +3,9 @@ language: python
 after_success:
   - bash <(curl -s https://codecov.io/bash)
 
+env:
+  - CODECOV_TOKEN='7ff9a7f8-e542-4aca-8b72-53347cd6b317'
+
 services:
   - docker
 
